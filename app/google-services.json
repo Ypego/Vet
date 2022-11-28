@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310714050764",
+    "firebase_url": "https://comida-b6896-default-rtdb.firebaseio.com",
+    "project_id": "comida-b6896",
+    "storage_bucket": "comida-b6896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310714050764:android:795e7e29f003ff0a94ba69",
+        "android_client_info": {
+          "package_name": "com.example.veterinaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310714050764-mpjm88aq5khohb4lhfi1dv7n215rnl5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-H8WEFWgDUpMQkh_3BbnLN5afF9qM4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310714050764-mpjm88aq5khohb4lhfi1dv7n215rnl5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
