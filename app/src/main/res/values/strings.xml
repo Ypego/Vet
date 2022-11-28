@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+    <string name="ingrese_un_nombre">Ingrese un nombre:</string>
+    <string name="ingrese_un_tipo">Ingrese un tipo:</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="perro">Perro</string>
+    <string name="gato">Gato</string>
+    <string name="otro">Otro</string>
+    <string name="registar_mascota">Registar Mascota</string>
+    <string name="seleccione_su_sexo">Seleccione su sexo:</string>
+    <string name="macho">Macho</string>
+    <string name="hembra">Hembra</string>
+    <string name="agregar">Agregar</string>
+</resources>
